@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-   <img src="./github/assets/Home.png" alt="Banner" height="600" />
+   <img src="./.github/assets/Home.png" alt="Banner" height="500" />
  </p>
 
 Anteriormente a pandemia, os **aplicativos de delivery** já demonstravam um características que poderia alterar o **comportamento do consumidor**: a flexíbilidade de solicitar comida para os restaurantes gerou um movimento ainda maior e cada vez mais frequentes de deliverys. E isso provocou um novo perfil de consumo para o **segmento gastronômico**, especialmente para os estabelecimentos físicos.
