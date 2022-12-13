@@ -6,6 +6,12 @@
    <img src="./.github/assets/Home.png" alt="Banner" height="500" />
  </p>
 
+O projeto simula uma lista de contatos e armazena os dados no banco de dados de acordo com as ações definidas pelo o usuário. Construímos 3 rotas na aplicação, uma rota Home que vai ser responsável por carregar os dados desse banco de dados e apresentar todos os contatos que o usuário já possui cadastrado, tal como realizar modifições ou excluir um determinado contato.
+
+A rota para adicionar um novo contato vai fazer a conexão entre a nossa aplicação e o banco de dados onde esta armazenado as informações do contato, e adicionar um novo contato através de um formulário preenchido pelo usuário.
+
+E a última rota é para realizar modificões em um contato já existe, através de um formulário parecido com o formulário que visualizamos na roda para adicionar um novo contato.
+
 ## Tecnologias Utilizadas
 
 **Client:** React, Vite, Styled-Components.
